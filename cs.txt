@@ -1,0 +1,10 @@
+Q:1 If a computer has more than one processor then it is known as :,1) Uni-process,2) Multiprocessor,3) Multi-programming,2
+Q:2 A light sensitive device that converts drawing printed text or other images into digital form is :,1) Keyboard,2) Scanner,3) OMR,2
+Q:3 A collection of system programs that controls and co-ordinates the overall operations of a computer system is called :,1) System software,2) Utility program,3) Operating system,3
+Q:4 What type of operating system MS-DOS is :,1) Command Line Interface,2) Graphical User Interface,3) Menu Driven Interface,1
+Q:5 Which of the following is the brain of the computer ?,1) Central Processing Unit,2) Memory,3) Arithmetic and Logic unit,1
+Q:6 What is the word length of a personal computer :,1) 32 bits,2) 8 bits,3) 16 bits,2
+Q:7 Which of the following is designed to control the operations of a computer:,1) Application Software,2) System Software,3) Utility Software,2
+Q:8 Which of the following devices provides the communication between a computer and the outer world?,1) Compact,2) I/O,3) Drivers,2
+Q:9 Which of the following can access the server :,1) Web Client,2) Web Browser,3) Web Server,1
+Q:10 Which of the following invention gave birth to the much cheaper microcomputers :,1) PDAs,2) Microprocessors,3) Mini computers,1

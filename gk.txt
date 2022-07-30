@@ -1,0 +1,10 @@
+Q:1 Which of the country is not World Trade Organization Member?,1) Libya,2) Liberia,3) South Korea,1
+Q:2 Which country in the World is believed to have the most miles of motor way?:,1) Japan,2) China,3) South Korea,2
+Q:3 NASA's James Webb Space telescope was launched on:,1) 25th October 2021,2) 25th December 2021,3) 25th January 2022,2
+Q:4 Where does the Sun rise at first on the Earth surface?:,1) Oslo(Norway),2) Denmark(Europe),3) North of Gisborne(NewZealand),3
+Q:5 Which currency has the highest value in the World?:,1) U.S dollar,2) Kuwaiti Dinar,3) European Euro,2
+Q:6 In which ocean "Bermuda Triangle" region is located?:,1) Atlantic,2) Pacific,3) Arctic,1
+Q:7 Which Mountain peak is called K1?:,1) Trich Mir,2) Nanga Parbat,3) Masherbrum,3
+Q:8 When was Covid-19 first reported in the world?:,1) 31st December 2019,2) 28th November 2019,3) 28th December 2019,1
+Q:9 What is the smallest known planet in the world?:,1) Mercury,2) Pluto,3) Neptune,1
+Q:10 Which Country has highest Irrigtion System in the World?:,1) India,2) Pakistan,3) China,3

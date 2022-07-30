@@ -1,0 +1,10 @@
+Q:1 The probability of getting two sixes when two dices are rolled together is:,1) 1/36,2) 1/18,3) 1/6,1
+Q:2 If the diagonals of a parallelogram are perpendicular then the figure will be:,1) Square,2) Rhombus,3) Trapezoid,2
+Q:3 The derivative of x^x with respect to x is:,1) xln x,2) x^x(1+lnx),3) (1+lnx)/x,2
+Q:4 Find the slope of tangent to the curve y(x^2 +1)=x at the origin:,1) 1,2) 1/2,3) 3/2,1
+Q:5 If a straight line passes through the origin its equation will be?,1) y= mx+c,2) y= mx,3) y= x,2
+Q:6 cos( 180 + x)= ?,1) -sin (180),2) cos (180),3) -cos x,3
+Q:7 The sum of square of a positive integer and six times the integer is 16. What is integer?,1) 2,2) -3,3) -2,1
+Q:8 If number of rows = number of columns in a matrix then it is called:,1) Square matrix,2) Scalar matrix,3) Null matrix,1
+Q:9 Integral of e^x(sin x + cos x) is:,1) ln(sin x + cos x) + c,2) e^cos x + c,3) e^sin x + c,3
+Q:10 The extreme value of function f(x)=x/ln(x) is at:,1) 1,2) e,3) 1/e,2
